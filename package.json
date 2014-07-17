@@ -1,0 +1,20 @@
+{
+  "name": "lrCloudinary",
+  "version": "0.1.0",
+  "description": "Angular filter to perform image transformation to images hosted with cloudinary in a declarative way",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/gulp"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.3.1",
+    "karma": "^0.12.17",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
