@@ -2,11 +2,11 @@
   "name": "lrCloudinary",
   "version": "0.1.0",
   "description": "Angular filter to perform image transformation to images hosted with cloudinary in a declarative way",
-  "main": "index.js",
+  "main": "lrCloudinary.js",
   "scripts": {
     "test": "node ./node_modules/.bin/gulp"
   },
-  "author": "",
+  "author": "Laurent RENARD",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.8.6",
